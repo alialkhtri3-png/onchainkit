@@ -104,3 +104,42 @@ If you:
 📢 **Share the project**
 
 OnchainKit grows with the community.
+
+
+# ChainCLI – Lightweight Base RPC Tool 🚀
+
+![ChainCLI GIF](https://via.placeholder.com/600x200.png?text=ChainCLI+Demo)  
+*مثال توضيحي لاستخدام الأداة على Termux*
+
+---
+
+## **نبذة عن المشروع**
+**ChainCLI** هي أداة سطر أوامر **خفيفة الوزن** للاستعلام عن بيانات شبكة **Base** مباشرة عبر **JSON-RPC**، بدون الحاجة إلى مفاتيح API.  
+- تعمل محليًا على **Termux** أو أي بيئة Linux صغيرة.  
+- لا تعتمد على مكتبات أو Dependencies ثقيلة.  
+- مناسبة للمطورين، الباحثين، وWeb3 builders.
+
+---
+
+## **الميزات الأساسية**
+- جلب **Chain ID** للشبكة.
+- جلب **آخر بلوك**.
+- جلب **رصيد أي عنوان ETH**.
+- سريع، خفيف، يعمل محليًا بدون إعدادات معقدة.
+- جاهز للتوسعة: دعم Tokens، Gas، ENS، Multi-chain.
+
+---
+
+## **لماذا Base؟**
+- رسوم منخفضة وفعالة.
+- مدعومة من **Coinbase**.
+- مثالية للأدوات الخفيفة والأتمتة.
+
+---
+
+## **التثبيت**
+1. تأكد من تثبيت **Node.js** و**npm** على Termux أو نظامك.
+2. استنساخ المشروع:
+```bash
+git clone https://github.com/username/ChainCLI.git
+cd ChainCLI
