@@ -143,3 +143,25 @@ OnchainKit grows with the community.
 ```bash
 git clone https://github.com/username/ChainCLI.git
 cd ChainCLI
+
+# ChainCLI – Lightweight Base RPC Tool 🚀
+
+![ChainCLI GIF](https://via.placeholder.com/600x200.png?text=ChainCLI+Demo)  
+
+## نبذة عن المشروع
+أداة **CLI خفيفة الوزن** للاستعلام عن بيانات شبكة **Base** مباشرة عبر JSON-RPC بدون مفاتيح API.  
+- تعمل على **Termux** وLinux.
+- خفيفة وسريعة.
+- مناسبة للمطورين وWeb3 builders.
+
+## الأوامر
+- `chain-id` → جلب Chain ID للشبكة  
+- `latest-block` → جلب آخر بلوك  
+- `balance <address>` → جلب رصيد ETH بالـ wei  
+
+## تثبيت وتشغيل
+```bash
+git clone https://github.com/username/ChainCLI.git
+cd ChainCLI
+npm install
+node chaincli.js --help
