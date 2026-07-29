@@ -1,0 +1,4 @@
+effectiveDate,legacyId,description,type,kind,group,netAmount,currency,isReverse,isReversed,accountSlug,accountName,paymentMethodType
+2026-07-30,1,Donation,CONTRIBUTION,CREDIT,OnchainKit,100,USD,false,false,ali,AliAlkhtri,crypto
+2026-07-30,2,Grant,CONTRIBUTION,CREDIT,OnchainKit,500,USD,false,false,sponsor,Sponsor,crypto
+2026-07-30,3,Expense,EXPENSE,DEBIT,OnchainKit,-50,USD,false,false,tools,Tools,card
