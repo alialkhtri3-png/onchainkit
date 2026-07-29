@@ -17,5 +17,8 @@
     "onchain",
     "base"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ]
 }
