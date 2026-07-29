@@ -1,3 +1,4 @@
+
 # onchainkit
 OnchainKit is a Web3 toolkit that simplifies building on-chain applications by providing ready-to-use components for wallet connections, smart contract interactions, and blockchain data access.
 🔥 Freedom-first Web3 Toolkit for Real-World Crypto Payments
@@ -321,7 +322,10 @@ latest-block
 Get latest Base block.
 
 balance <wallet-address>
+## Support OnchainKit
 
+Support the development:
+https://opencollective.com/onchainkit
 Get ETH balance.
 
 ---
@@ -340,4 +344,10 @@ Future support:
 ---
 
 Built for the decentralized future 🌍
+
+
+## Support OnchainKit
+
+Support the development:
+https://opencollective.com/onchainkit
 
