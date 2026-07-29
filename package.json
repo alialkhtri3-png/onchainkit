@@ -1,0 +1,21 @@
+{
+  "name": "@alialkhtri/onchainkit",
+  "version": "0.1.0",
+  "description": "Freedom-first Web3 toolkit for real-world crypto payments",
+  "type": "module",
+  "packages": [
+    "packages/*"
+  ],
+  "scripts": {
+    "test": "echo \"Tests coming soon\""
+  },
+  "keywords": [
+    "web3",
+    "ethereum",
+    "payments",
+    "wallet",
+    "onchain",
+    "base"
+  ],
+  "license": "MIT"
+}
