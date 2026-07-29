@@ -164,4 +164,180 @@ cd ChainCLI
 git clone https://github.com/username/ChainCLI.git
 cd ChainCLI
 npm install
+node chaincli.js --help🚀 OnchainKit
+
+Freedom-first Web3 Toolkit for Real-World Crypto Payments
+
+OnchainKit is a developer-first Web3 toolkit designed to simplify building decentralized applications, crypto payment systems, and on-chain experiences.
+
+It provides reusable components for:
+
+- Wallet connections
+- Transaction signing
+- Smart contract interactions
+- Blockchain data access
+- EVM-compatible networks
+
+OnchainKit is built around one principle:
+
+«Financial infrastructure should be open, permissionless, and accessible.»
+
+---
+
+🌍 Why OnchainKit?
+
+Millions of users and developers in underserved regions face limitations from traditional financial systems.
+
+OnchainKit focuses on enabling:
+
+- 🌐 Developers in restricted or unsupported regions
+- 💸 Borderless crypto payments
+- 🧱 Reduced dependency on centralized payment providers
+- 🛡️ Self-custody and user-controlled assets
+- ⚡ Faster Web3 application development
+
+---
+
+🔥 Core Features
+
+🔐 Wallet Infrastructure
+
+- Wallet connection components
+- Account management
+- Secure signing flows
+
+✍️ On-chain Operations
+
+- Transaction signing
+- Smart contract calls
+- Blockchain state access
+
+🧩 Developer Components
+
+- Ready-to-use UI components
+- Web3 utilities
+- EVM-compatible architecture
+
+💳 Crypto Payments
+
+Built for:
+
+- Commerce
+- Donations
+- Open-source funding
+- Global digital payments
+
+---
+
+🎯 Target Users
+
+- Web3 developers
+- Open-source projects
+- Humanitarian initiatives accepting crypto
+- Builders creating decentralized financial tools
+
+---
+
+💥 Vision
+
+We are not building another Web3 library.
+
+We are building open financial infrastructure.
+
+A world where users can control their assets without unnecessary restrictions.
+
+---
+
+🤝 Contribute
+
+Support OnchainKit by:
+
+⭐ Starring the repository
+💻 Contributing code
+📢 Sharing the project
+
+---
+
+⛓️ ChainCLI
+
+Lightweight Base RPC Command Line Tool
+
+ChainCLI is a lightweight CLI utility for querying the Base blockchain directly through JSON-RPC.
+
+Designed for:
+
+- Termux
+- Linux environments
+- Web3 developers
+- Blockchain researchers
+
+No API keys required.
+
+---
+
+⚙️ Features
+
+- Get Base Chain ID
+- Fetch latest block number
+- Check ETH balances
+- Direct JSON-RPC communication
+- Lightweight dependency footprint
+
+---
+
+Why Base?
+
+ChainCLI targets Base because it provides:
+
+- Low transaction costs
+- Fast execution
+- Ethereum compatibility
+- Strong ecosystem support
+
+---
+
+📦 Installation
+
+git clone https://github.com/username/ChainCLI.git
+
+cd ChainCLI
+
+npm install
+
+---
+
+▶️ Usage
+
 node chaincli.js --help
+
+Examples:
+
+chain-id
+
+Get network chain ID.
+
+latest-block
+
+Get latest Base block.
+
+balance <wallet-address>
+
+Get ETH balance.
+
+---
+
+🛣️ Roadmap
+
+Future support:
+
+- ERC-20 token balances
+- Gas tracking
+- ENS resolution
+- Multi-chain support
+- Wallet analytics
+- Identity integration
+
+---
+
+Built for the decentralized future 🌍
+
